@@ -1,19 +1,18 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Through THe Screen"
+image: "1.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+  - label: Instagram
+    url: "https://www.instagram.com/daysandskies/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "raissa.shrestha@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am currently an undergraduate student at the University of Toronto. In my free time, I like taking pictures, mostly of landscapes and nature. I hope this blog serves as a curated collection of my explorations, curiosity and appreciation for the things around us. 
+
